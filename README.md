@@ -1,3 +1,16 @@
+
+**
+Relative stability - Anchored or Pegged -> $1.00
+    - Chainlink PriceFeed.
+    - Set a function to exchange ETH & BTC -->>> $$$
+Stability Mechanism(Minting): Algorithmic (Decentralized)
+  - People can only mint the stable coin with enough collateral
+Collateral: Exogenous (Crypto collateral)
+    -wETH
+    -wBTC
+**
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -64,3 +77,11 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+Relative stability - Anchored or Pegged -> $1.00
+    - Chainlink PriceFeed.
+    - Set a function to exchange ETH & BTC -->>> $$$
+Stability Mechanism(Minting): Algorithmic (Decentralized)
+  - People can only mint the stable coin with enough collateral
+Collateral: Exogenous (Crypto collateral)
+    -wETH
+    -wBTC
