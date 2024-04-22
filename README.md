@@ -1,5 +1,5 @@
 
-**
+
 Relative stability - Anchored or Pegged -> $1.00
     - Chainlink PriceFeed.
     - Set a function to exchange ETH & BTC -->>> $$$
@@ -8,7 +8,7 @@ Stability Mechanism(Minting): Algorithmic (Decentralized)
 Collateral: Exogenous (Crypto collateral)
     -wETH
     -wBTC
-**
+
 
 
 ## Foundry
